@@ -276,7 +276,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
     </table>
     <p align="center">
       <input type="submit" name="submit" value="注册">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <input type="reset" name="reset" value="重置">
       
     </p>
